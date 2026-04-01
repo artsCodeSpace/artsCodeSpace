@@ -7,11 +7,11 @@
 ---
 
 ## 🧠 About Me
-- 🛠️ Frontend + Backend (learning both = chaos)
+- 🛠️ Frontend + Backend (learning both = def need coffee)
 - 🎨 I sketch when code betrays me  
 - 🧩 Into Linux tweaking & system customization  
 - 🐍 Currently grinding Python  
-- 📚 Manhwa + random Korean genre enjoyer  
+- 📚 Reads Manhwa to unwind  
 
 ---
 
