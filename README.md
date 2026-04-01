@@ -42,8 +42,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nerochan-hub&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerochan-hub&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -51,7 +51,7 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=nerochan-hub&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -59,7 +59,7 @@
 ## 📈 Activity Graph (Progress Over Time)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nerochan-hub&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -67,7 +67,7 @@
 ## 🐍 Snake Eating Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/nerochan-hub/nerochan-hub/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
