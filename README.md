@@ -61,13 +61,14 @@
 
 ---
 
-## 🐍 Snake Eating Contributions
+<!--## 🐍 Snake Eating Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nerochan-hub/nerochan-hub/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
+-->
 
 ## 🧠 Current Mindset
 ```python
