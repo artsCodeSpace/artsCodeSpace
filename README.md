@@ -41,14 +41,14 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nerochan-hub&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=artsCodeSpace&theme=tokyonight"/>
 
 ---
 
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nerochan-hub&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=artsCodeSpace&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -56,7 +56,7 @@
 ## 📈 Activity Graph (Progress Over Time)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nerochan-hub&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=artscodeSpace&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
