@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 About Me
+## 🐱 About Me
 - 🛠️ Frontend + Backend (learning both = def need coffee)
 - 🎨 I sketch when code betrays me  
 - 🧩 Into Linux tweaking & system customization  
@@ -70,7 +70,7 @@
 ---
 -->
 
-## 🧠 Current Mindset
+## 🤓 Current Mindset
 ```python
 while alive:
     learn()
